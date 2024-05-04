@@ -10,4 +10,5 @@ Bootcamp DIO - Santander 2024 - Preparatório Certificação AWS
 
 ## Desafios de Código Básicos - AWS Domínio 2
 - Desafio4;
-  
+- Desafio5;
+- Desafio6.
